@@ -1,0 +1,24 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: 'E09CA2258920056A92C647ABC20AFC74',
+    participant: undefined
+  },
+  messageTimestamp: 1678693674,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5217821482766'
+}
