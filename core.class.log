@@ -2,23 +2,170 @@
   key: {
     remoteJid: '5217821482766@s.whatsapp.net',
     fromMe: false,
-    id: 'E09CA2258920056A92C647ABC20AFC74',
+    id: '8DBA9961949A960587F95038CD6D0E19',
     participant: undefined
   },
-  messageTimestamp: 1678693674,
+  messageTimestamp: 1678828956,
   pushName: 'Oshkarr!🤘🏻',
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: 'Buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: 'FD1ED5741786AE9E520CD3ECE361657A',
+    participant: undefined
+  },
+  messageTimestamp: 1678828963,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Hola',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
   body: 'Hola',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: '9CFC5A3097742396201EFE65EED24DD0',
+    participant: undefined
+  },
+  messageTimestamp: 1678828967,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0EFEFCD9822F17A32A8CEA36E40819E',
+    participant: undefined
+  },
+  messageTimestamp: 1678828974,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ola',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: '9F749258947DADA930BFAD67F18F7DCC',
+    participant: undefined
+  },
+  messageTimestamp: 1678828976,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ola',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: 'BC1083B67BE5F89581574EA235203B9D',
+    participant: undefined
+  },
+  messageTimestamp: 1678828981,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Buenos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: '60ACA5AB310B76E9AAE4774434EBD723',
+    participant: undefined
+  },
+  messageTimestamp: 1678828983,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Buenos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: 'D6CF043978DFF1E61E05869A0E0C33D1',
+    participant: undefined
+  },
+  messageTimestamp: 1678828990,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Buenos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos',
+  from: '5217821482766'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217821482766@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD35559666042241D9EDDE968B1311F4',
+    participant: undefined
+  },
+  messageTimestamp: 1678828994,
+  pushName: 'Oshkarr!🤘🏻',
+  message: Message {
+    conversation: 'Buenos dias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos dias',
   from: '5217821482766'
 }

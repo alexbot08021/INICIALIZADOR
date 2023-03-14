@@ -28,7 +28,7 @@ const flowTuto = addKeyword(['tutorial', 'tuto']).addAnswer(
     [flowSecundario]
 )
 
-const flowGracias = addKeyword(['gracias', 'grac']).addAnswer(
+const flowGracias = addKeyword(['ctc.body']).addAnswer(
     [
         '🚀 Puedes aportar tu granito de arena a este proyecto',
         '[*opencollective*] https://opencollective.com/bot-whatsapp',
@@ -48,14 +48,14 @@ const flowDiscord = addKeyword(['discord']).addAnswer(
     [flowSecundario]
 )
 
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
-    .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
+const flowPrincipal = addKeyword(['buenas','hola','ola','buenos','buenas','por','favor'])
+    .addAnswer('🙌*Hola bienvenido a Cima del tajin*')
     .addAnswer(
         [
-            'te comparto los siguientes links de interes sobre el proyecto',
-            '👉 *doc* para ver la documentación',
-            '👉 *gracias*  para ver la lista de videos',
-            '👉 *discord* unirte al discord',
+            'Nuestro bot esta en mantenimiento',
+            '👉 si necesita algúna cosa',
+            'Uno de nuestros asesores te atendera',
+            '*GRACIAS*',
         ],
         null,
         null,
